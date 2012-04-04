@@ -72,8 +72,8 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IEMRDocInfo.vb" />
     <Compile Include="DirectoryManager.vb" />
+    <Compile Include="IEMRFileInfo.vb" />
     <Compile Include="MainWindow.vb">
       <SubType>Form</SubType>
     </Compile>
